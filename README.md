@@ -1,4 +1,4 @@
-# Hypickle a discord bot to view hypixel stats
+# Hypickle is a discord bot to view hypixel stats
 ## still in development
 
 ###     APIs used:
