@@ -2,5 +2,5 @@
 ## still in development
 
 ###     APIs used:
-### (hypixel api)[https://api.hypixel.net/]
-### (polsu api)[https://api.polsu.xyz/]
+### [hypixel api](https://api.hypixel.net/)
+### [polsu api](https://api.polsu.xyz/)
