@@ -45,7 +45,7 @@ A powerful Discord bot for viewing Hypixel statistics, with a special focus on D
    pip install -r requirements.txt
    ```
 3. Create a `credentials.py` file with your API tokens:
-   ```
+   ```python
     DISCORD = "discord-token"
     POLSU = "polsu-key"
     HYPIXEL = "hypixel-key"
