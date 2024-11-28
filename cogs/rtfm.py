@@ -165,7 +165,7 @@ class Docs(commands.Cog, name="Documentation"):
         e.description = "\n".join(f"[`{key}`]({url})" for key, url in self.matches)
         await ctx.send(embed=e)
 
-    @commands.hybrid_command(description="Gives you a documentation link for a discord.py entity.")
+    @commands.command(description="Gives you a documentation link for a discord.py entity.")
     async def rtfm(self, ctx, *, query: str):
         key = None
         if not key or key.lower() not in self.page_types.keys():
